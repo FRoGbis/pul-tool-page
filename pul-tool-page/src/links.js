@@ -13,7 +13,7 @@ import nexus from './img/nexus.jpg';
 const links = [
 	{
 		"title": "Confluence",
-		"link": "https://demo-confluence.netapsys.fr",
+		"link": "https://documentation-atlassian.netapsys.fr",
 		"textColor": "#FFF",
 		"backgroundImg": confluence,
 	},
